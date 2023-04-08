@@ -1,5 +1,5 @@
 👨‍💻 **Currently deep diving into:** 
-Next.js | React | MySQL | JavaScript | TypeScript | Python | Flask | Django | MongoDB | Tailwind CSS | Bootstrap | Visual Studio Code | PyCharm
+![Next.js icon](https://img.icons8.com/color/48/000000/nextjs.png "Next.js") ![React icon](https://img.icons8.com/color/48/000000/react-native.png "React") ![MySQL icon](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png "MySQL") ![JavaScript icon](https://img.icons8.com/color/48/000000/javascript.png "JavaScript") ![TypeScript icon](https://img.icons8.com/color/48/000000/typescript.png "TypeScript") ![Python icon](https://img.icons8.com/color/48/000000/python.png "Python") ![Flask icon](https://img.icons8.com/ios-filled/50/000000/flask.png "Flask") ![Django icon](https://img.icons8.com/color/48/000000/django.png "Django") ![MongoDB icon](https://img.icons8.com/color/48/000000/mongodb.png "MongoDB") ![Tailwind CSS icon](https://img.icons8.com/color/48/000000/tailwind-css.png "Tailwind CSS") ![Bootstrap icon](https://img.icons8.com/color/48/000000/bootstrap.png "Bootstrap") ![Visual Studio Code icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png "Visual Studio Code") ![PyCharm icon](https://img.icons8.com/color/48/000000/pycharm.png "PyCharm")
 
 🚀 **Working on:** 
 Warelist
