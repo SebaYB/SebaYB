@@ -5,7 +5,7 @@
   <br><br>
   🚀 <b>Working on:</b> 
   <br><br>
-  Warelist
+  Warelist App
   <br><br>
   🛠️ <b>Tools:</b> 
   <br><br>
