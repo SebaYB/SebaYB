@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sebayb.SebaYB)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sebayb)
 
 <p align="center">
   👨‍💻 <b>Deep diving into:</b> 
